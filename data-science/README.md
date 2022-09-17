@@ -1,2 +1,1 @@
-# 
-This repository is dedicated to machine learning as well as aspects of data science, architecture, and engineering...
+
